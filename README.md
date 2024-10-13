@@ -1,6 +1,7 @@
 # Dashboard para Fábrica PIMA (Subcontratista Renault)
 
 Este dashboard está diseñado para monitorizar el rendimiento de la fábrica en tres áreas clave: Rendimiento de Operarios (RO), Eficiencia General de los Equipos (OEE) y Calidad. El objetivo es mantener estas métricas dentro de los límites establecidos: RO > 80%, OEE > 75% y Calidad < 2500 ppm.
+Está optimizado para un monitor de 13 a 15 pulgadas.
 
 ## Estructura del Dashboard:
 
