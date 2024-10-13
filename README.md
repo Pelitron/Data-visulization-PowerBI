@@ -37,7 +37,9 @@ El OEE se calcula como el producto de tres factores: Disponibilidad, Rendimiento
 OEE = Disponibilidad * Rendimiento * Calidad
 
 Disponibilidad: Porcentaje del tiempo que el equipo está disponible para producir, teniendo en cuenta las paradas planificadas y no planificadas.
+
 Rendimiento: Relación entre la velocidad real de producción y la velocidad teórica máxima, expresada en porcentaje.
+
 Calidad: Porcentaje de piezas producidas que cumplen con los estándares de calidad.
 
 ### Calidad:
